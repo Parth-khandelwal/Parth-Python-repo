@@ -2631,7 +2631,3 @@ press3 for Xl at 900'''))
                             gst=(sum*12)/100
                             total=sum+gst
                             print(total)
-    if b==2:
-        c=int(input('press1->casual\npress2->party wear\npress3->ethenic'))
-        if c==1:
-            d=int(input('press1->t-Shirt\npress2->jeans\npress3->'))
